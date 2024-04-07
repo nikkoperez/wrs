@@ -10,4 +10,14 @@ VALUES
     ('doctor7'),
     ('doctor8'),
     ('doctor9'),
-    ('doctor10');
+    ('doctor10'),
+    ('doctor11'),
+    ('doctor12'),
+    ('doctor13'),
+    ('doctor14'),
+    ('doctor15'),
+    ('doctor16'),
+    ('doctor17'),
+    ('doctor18'),
+    ('doctor19'),
+    ('doctor20');

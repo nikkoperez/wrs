@@ -10,4 +10,14 @@ VALUES
     ('patient7'),
     ('patient8'),
     ('patient9'),
-    ('patient10');
+    ('patient10'),
+    ('patient11'),
+    ('patient12'),
+    ('patient13'),
+    ('patient14'),
+    ('patient15'),
+    ('patient16'),
+    ('patient17'),
+    ('patient18'),
+    ('patient19'),
+    ('patient20');
